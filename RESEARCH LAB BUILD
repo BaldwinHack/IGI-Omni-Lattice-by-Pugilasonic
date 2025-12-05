@@ -1,0 +1,78 @@
+IGI OMNI-LATTICE — $100,000 RESEARCH LAB BUILD
+BY PUGILASONIC
+
+GOAL:
+A research-grade, near-field optical redirection lattice capable of **high-fidelity adaptive cloaking**, 
+**environmental blending**, and **multi-angle illusion rendering** for study and demonstration.
+
+-------------------------------
+HARDWARE & MATERIALS
+-------------------------------
+
+FRAME & LATTICE
+• Carbon-nanotube composite structural ribs (ultra-light, rigid)
+• Titanium micro-lattice substructure for mounting adaptive cells
+• High-density modular “tile” system (400–600 tiles per full suit)
+
+OPTICAL SYSTEM (CORE)
+• 4th-gen micro-LED/µOLED panels (extreme pixel density)
+• Liquid-crystal phase-shifting films (for angle-specific refraction)
+• Light-field projectors (multi-angle output)
+• Experimental metasurface sheets (lab-grade, tunable)
+• Quantum-dot optical waveguides (high brightness under low power)
+
+CAMERA & SENSOR ARRAY
+• 360° 8K micro-camera network (45–60 micro-cams)
+• LIDAR mesh mapping sensors
+• mmWave and ultrasonic depth sensors
+• IR reflectance samplers
+• Ambient color spectrum sensors (wide gamut)
+
+PROCESSING & COMPUTING
+• 3× Jetson AGX Orin Dev Kits (edge inference stack)
+• Dedicated FPGA board for optical timing & calibration
+• 2× Apple M-series or AMD AI workstation nodes
+• Neural radiance field generator (NeRF)
+• Real-time SLAM subsystem
+• Multi-angle transformation engine (custom IGI software)
+
+POWER SYSTEM
+• Carbon-nanotube ultracapacitor pack
+• 300Wh high-discharge lithium module for sustained output
+• Smart power-gating unit for thermal control
+
+COOLING & THERMALS
+• Microfluidic cooling channels
+• Passive graphene heat spreaders
+• Soft exosuit airflow channels (silent)
+
+SOFTWARE (IGI SUITE)
+• IGI Light-Field Engine (LFE) v3
+• Omni-Angle Radiance Mapper (OARM)
+• Adaptive Cloak Neural Model (ACNM)
+• Environment Sampling Suite + Calibration Assistant
+• Developer control & research dashboard
+
+-------------------------------
+FEATURE SET
+-------------------------------
+• **Full-spectrum environmental capture (RGB, IR, depth, spectral)**
+• **Dynamic cloaking + angle-specific camouflage**
+• **Multi-angle illusion projection (left/right shift, ghost imagery)**
+• **Real-time scene relighting**
+• **Metasurface-assisted bending of light**
+• **Sub-1ms tile coordination via FPGA timing**
+• **Research-grade logging & tunable modes**
+• **Wireless tether for remote workstation operation**
+
+-------------------------------
+EXPECTED RESEARCH CAPABILITIES
+-------------------------------
+• Testing of next-gen metasurface cloaks  
+• AI-driven adaptive camouflage  
+• Real-time background replacement  
+• “Parallax-correct” image warping for multiple observers  
+• Prototype invisible-to-casual-observer demos  
+• Lab-grade quantitative optical measurements  
+
+TOTAL COST: ~$97,000–$105,000 depending on region
