@@ -1,6 +1,34 @@
 .
 
 ⸻
+![Status: Concept Only](https://img.shields.io/badge/Status-Concept%20Only-blue)
+![Stage: Research](https://img.shields.io/badge/Stage-Research-lightgrey)
+
+![Classification: Not Classified](https://img.shields.io/badge/Classification-Not%20Classified-green)
+![Export Control: Not ITAR/EAR](https://img.shields.io/badge/Export%20Control-Not%20ITAR%2FNot%20EAR-brightgreen)
+
+![Tech: Metamaterials](https://img.shields.io/badge/Tech-Metamaterials-9cf)
+![Tech: Adaptive Optics](https://img.shields.io/badge/Tech-Adaptive%20Optics-blueviolet)
+![Tech: Nanostructures](https://img.shields.io/badge/Tech-Nanostructures-orange)
+
+![Purpose: Educational](https://img.shields.io/badge/Purpose-Educational-yellow)
+![Purpose: Speculative Research](https://img.shields.io/badge/Purpose-Speculative%20Research-purple)
+
+![Org: Pugilasonic](https://img.shields.io/badge/Org-Pugilasonic-blue)
+![Project: IGI Omni-Lattice](https://img.shields.io/badge/Project-IGI%20Omni--Lattice-teal)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Concept%20Only-blue" />
+  <img src="https://img.shields.io/badge/Stage-Research-lightgrey" />
+  <img src="https://img.shields.io/badge/Classification-Not%20Classified-green" />
+  <img src="https://img.shields.io/badge/Export%20Control-Not%20ITAR%2FNot%20EAR-brightgreen" />
+  <img src="https://img.shields.io/badge/Purpose-Speculative%20Research-purple" />
+  <img src="https://img.shields.io/badge/Tech-Metamaterials-9cf" />
+  <img src="https://img.shields.io/badge/Tech-Adaptive%20Optics-blueviolet" />
+  <img src="https://img.shields.io/badge/Tech-Nanostructures-orange" />
+  <img src="https://img.shields.io/badge/Org-Pugilasonic-blue" />
+  <img src="https://img.shields.io/badge/Project-IGI%20Omni--Lattice-teal" />
+</p>
 
 IGI Omni-Lattice by Pugilasonic
 
