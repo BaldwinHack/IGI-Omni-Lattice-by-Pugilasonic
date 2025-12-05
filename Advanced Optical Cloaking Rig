@@ -1,0 +1,133 @@
+# IGI Omni-Lattice — $35,000 Advanced Optical Cloaking Rig
+### Non-classified • Experimental • Educational • Speculative Optics Research
+
+This is the ultra-high-end version of the Omni-Lattice. At this tier, the build integrates
+micro-fabricated metamaterial arrays, active adaptive optics, and a full edge-blending AI
+pipeline. Designed for experimental labs, film effects groups, and research spaces.
+
+---
+
+# 🔧 CORE TECHNOLOGY (HIGH-END TIER)
+
+## 1. Micro-fabricated Metamaterial Lattice (5–8 micron precision)
+- Outsourced to professional micro-fabrication shops  
+- 10× finer than makerspace SLA  
+- Dramatically reduces shimmer & distortion  
+- Allows nearly seamless light-redirection
+
+## 2. Multi-Layer Optical Stack (Premium)
+- Lenticular → Phase-corrective → Nanodiffusion → AR-coated layer system
+- Commercial-grade anti-reflection coating (≤ 0.7% reflectance)
+- Phase-corrective nanofilm eliminates “bend artifacts”
+
+## 3. Full Adaptive Optics System (Cinematic Level)
+- 24–32 micro-cameras embedded around perimeter
+- Real-time AI edge correction
+- Jetson AGX Orin or FPGA cluster
+- Predictive blending engine reduces human-motion detection
+
+## 4. HDR Micro-Display Backfill System
+- Micro-OLEDs or micro-LEDs
+- Auto-corrects shadows and high-contrast regions
+- Makes background appear continuous even with low ambient light
+
+## 5. Precision-Alignment Frame (Lab-Grade)
+- Carbon fiber composite + aerospace tolerances
+- Micron alignment rails
+- Anti-shock isolation mounts
+
+## 6. Environmental Compensation
+- Auto-brightness adjustment
+- Anti-glare compensation
+- Temperature-stable optics (prevents warping)
+
+---
+
+# 💰 BUDGET BREAKDOWN
+
+- Micro-fabricated lattice: **$8,000 – $10,000**
+- Multi-layer optical stack w/ coatings: **$4,000**
+- 24–32 micro-cameras: **$3,000**
+- Jetson AGX Orin / FPGA boards: **$2,500 – $4,000**
+- HDR micro-displays: **$4,500**
+- Carbon fiber frame + precision mounts: **$2,500**
+- High-end lighting sensors + calibration tools: **$2,000**
+- CNC + laser cut panel fabrication: **$1,500**
+- R&D, iteration buffer, optical consumables: **$4,000**
+
+**Total: ~$33,000 – $36,000**
+
+---
+
+# 🎯 PERFORMANCE EXPECTATIONS
+
+## 📏 1. Close Range (1 foot / 30 cm)
+- **Not fully invisible**
+- HOWEVER:
+  - Edge shimmer extremely reduced
+  - Lattice distortion almost imperceptible
+  - Looks like a “mirage window,” not a panel
+
+### Detectability: **Medium**  
+You can still tell something is there up close.
+
+---
+
+## 📏 2. Medium Range (2–3 feet)
+- **Very strong concealment**
+- Background appears almost continuous
+- Motion detection reduced by adaptive optics
+- Human outline difficult to see head-on
+
+### Detectability: **Low**
+
+---
+
+## 📏 3. Ideal Range (4–7 feet)
+- **Cinematic-grade directional invisibility**
+- To a casual observer:
+  - Person appears to vanish
+  - Only slight rippling on rapid movement
+- Cameras (especially phone cameras):  
+  - Often show near-complete disappearance
+
+### Detectability: **Very Low**
+
+---
+
+## 📏 4. Extended Range (8–15 feet)
+- **Exceptionally convincing invisibility**
+- On video: looks like true cloaking
+- In person:  
+  - Nearly seamless background  
+  - Person effectively “not there”
+
+### Detectability: **Extremely Low**
+
+---
+
+# 🔦 Lighting Performance
+
+### Best:
+- Bright indoor studio lighting  
+- Outdoor daylight  
+- Environments with even illumination  
+
+### Good:
+- Normal indoor lighting  
+- Mild shadows  
+
+### Challenging:
+- Very dark areas (micro-displays compensate but not perfectly)  
+- Harsh spotlighting  
+
+---
+
+# 🧪 SUMMARY
+
+- **$6k** build → effective camouflage at 8–15 ft  
+- **$15k** build → near invisible at 3–5 ft  
+- **$35k** build → *cinematic near-invisibility* at 4–7 ft  
+- Still directional (not 360º)  
+- Still physical optical redirection (not sci-fi cloaking)  
+- 100% non-classified & suitable for experimental/educational R&D
