@@ -1,0 +1,43 @@
+## IGI Omni-Lattice — $6,000 Budget Makerspace Build (Concept)
+
+This is a practical, affordable version of the Omni-Lattice metamaterial cloak that can be built in a well-equipped makerspace using off-the-shelf tools and low-cost micro-optics.
+
+### 🔧 Core Components
+- **3D-printed micro-cell lattice** (resin SLA printer for precision)
+- **Flexible optical panels** using lenticular + Fresnel hybrid layering
+- **Directional light-redirection sheets** (commercial-grade)
+- **Micro-camera pickups** for adaptive correction (optional)
+- **Raspberry Pi or ESP32** for illumination correction
+- **LED normalization backplane** to prevent shadow artifacts
+- **Light diffusion control film** to reduce edge distortion
+- **Mag-frame housing** for rapid assembly
+
+### 🛠 Tools Needed (Typical Makerspace)
+- SLA 3D printer (0.025 mm layer)
+- Laser cutter for film shaping
+- Precision cutting tools
+- UV-curing station
+- Soldering bench
+- Acrylic bending oven (optional)
+
+### 💰 Budget Overview
+- Optical films & lenticular sheets: **$800**
+- SLA printing resin & micro-lattice material: **$900**
+- Reinforced frame materials: **$300**
+- Micro cameras (optional): **$600**
+- Raspberry Pi + power systems: **$200**
+- LEDs & diffusion panels: **$300**
+- Tools, adhesives, fine optics: **$400**
+- Makerspace rental & testing: **$500**
+- Prototype iterations buffer: **$1,000**
+
+**Total ≈ $5,000–$6,000**
+
+### 🎯 What This Version Achieves
+- Directional invisibility from the front-facing angle
+- Semi-adaptive blending into background
+- Low distortion compared to hobby cloaking sheets
+- Buildable in any public makerspace
+- Non-classified, safe, educational metamaterials research
+
+This design focuses on *optical redirection*, not full-spectrum cloaking.
