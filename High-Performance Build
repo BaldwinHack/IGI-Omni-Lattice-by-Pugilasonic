@@ -1,0 +1,109 @@
+## IGI Omni-Lattice — $15,000 High-Performance Build (Advanced Makerspace / Lab)
+
+This version of the Omni-Lattice takes a major leap in performance using higher-grade optics, microdisplays, adaptive correction, and finer lattice precision. It remains a non-classified, educational metamaterials project.
+
+---
+
+# 🔧 Core Hardware Upgrades
+
+### 1. **High-precision micro-lattice (10–20 micron)**
+- Printed on industrial SLA/DLP printers or outsourced
+- Much lower optical distortion vs. hobby-level 3D print
+
+### 2. **Next-gen lenticular + phase-layer hybrid**
+- Multi-layer structure:
+  - Lenticular layer
+  - Fresnel focus layer
+  - Nanodiffusion film
+  - Anti-reflective coating
+- Smooths light-redirection dramatically
+
+### 3. **Real adaptive correction (major upgrade)**
+- 8–12 micro-cameras embedded along edges
+- FPGA or Jetson Nano for real-time background blending
+- Removes shimmer and eliminates edge artifacts
+
+### 4. **Microdisplay backfill enhancement**
+- Tiny, low-power micro-OLEDs help patch lighting inconsistencies
+- Used only when background contrast is high
+
+### 5. **Rigid but lightweight frame**
+- Carbon fiber or magnesium alloy
+- Allows fine tuning and optical alignment
+
+---
+
+# 🛠 Tools & Equipment (Advanced Makerspace Tier)
+- Industrial SLA printer or outsourced micro-fabrication
+- Precision optical measuring tools
+- Laser cutter & CNC router
+- Soldering + reflow workstation
+- High-lumen color-balanced light meter
+
+---
+
+# 💰 Budget Breakdown
+- Micro-lattice precision fabrication: **$3,500**
+- Multi-layer optical sheets + AR coatings: **$2,000**
+- High-grade diffusion & phase-corrective films: **$800**
+- Carbon fiber or magnesium housing: **$1000**
+- Micro-cameras (x12): **$1,200**
+- Jetson Nano or FPGA + compute board: **$700**
+- Micro-OLED patch displays: **$1,000**
+- LED normalization system: **$400**
+- Precision testing + calibration tools: **$1,500**
+- Prototype iterations & wastage buffer: **$2,000**
+
+**Total: ~$14,100 – $15,700**
+
+---
+
+# 🎯 What This Version Can Achieve
+
+### 🟢 **Close Range (1–2 ft)**
+- Still *detectable*, but MAJOR improvements:
+  - Far less shimmer
+  - Blending is smoother
+  - Edges much less obvious
+- Looks like:
+  - A glass panel with mild distortion
+  - A “mirage wall”
+
+### 🟡 **Moderate Range (3–5 ft)**
+- **Very strong directional invisibility**
+- From head-on:
+  - Human outline nearly gone
+  - Viewer sees mostly corrected background
+  - Motion still detectable but subtle
+
+### 🟠 **Extended Range (6–10 ft)**
+- **Extremely convincing invisibility**
+- Human figure often disappears completely
+- Works on:
+  - Human eyes  
+  - Phone cameras  
+  - Security cameras  
+  - DSLR footage  
+
+### 🔦 Lighting Sensitivity
+- Performs well in:
+  - Daylight
+  - Studio lighting
+  - Bright indoor environments  
+- Adaptive system compensates for:
+  - Shadows  
+  - Dark clothing  
+  - Motion contrast  
+
+---
+
+# 🧪 Summary
+- **$6k build:** great camouflage at 8–15 ft  
+- **$15k build:** near-invisibility at 3–5 ft  
+- Directional, not 360º  
+- Non-classified metamaterials + optical engineering  
+- Suitable for:
+  - Experimental research  
+  - Film effects  
+  - Stage illusions  
+  - Advanced makerspace R&D  
